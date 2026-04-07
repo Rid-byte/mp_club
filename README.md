@@ -1,2 +1,38 @@
-# mp_club
-A responsive web application for the MP Club website, built with Laravel, MySQL and jquery and deployed as part of my web development contract.
+# 🌐 MP Club
+
+A responsive web application for the **MP Club** website as a part of the contract i got, built with **Laravel**, **MySQL**, and **jQuery**.  
+This project was developed and deployed as part of a professional web development contract.
+
+---
+
+## ✨ Features
+
+- 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop devices  
+- ⚡ **Dynamic UI** – Interactive components powered by jQuery  
+- 🗄️ **Robust Backend** – Laravel framework with MySQL database integration  
+- 🔒 **Authentication** – Secure login and registration system  
+- 🛠️ **Admin Dashboard** – Manage members, events, and content easily  
+- 🎨 **Attractive UI** – Clean, modern, and user-friendly interface  
+
+---
+
+## 🚀 Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **Laravel** | Backend framework |
+| **MySQL** | Database management |
+| **jQuery** | Frontend interactivity |
+| **Bootstrap/Tailwind** | Responsive styling |
+| **GitHub Actions** | CI/CD deployment |
+
+---
+
+
+---
+
+## Project Link
+https://npbrijmanganj.upulb.in/mpnews/
+
+
+
