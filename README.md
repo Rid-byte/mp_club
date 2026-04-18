@@ -31,8 +31,11 @@ This project was developed and deployed as part of a professional web developmen
 
 ---
 
-## Project Link
-https://npbrijmanganj.upulb.in/mpnews/
+## 🔗 Project Links
+
+- **Live Project**: [MP CLUB](https://www.mpclub.in/)
+- **GitHub Repository**: [mpclub](https://github.com/Rid-byte/mp_club)
+
 
 
 
